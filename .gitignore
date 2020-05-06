@@ -1,0 +1,4 @@
+node_modules
+# Yarn 2 folder - in-case it gets used in the future
+.yarn
+/dist

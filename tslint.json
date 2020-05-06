@@ -1,0 +1,38 @@
+{
+	"rules": {
+		"no-unused-expression-chai": true,
+		"no-duplicate-variable": true,
+		"no-unnecessary-qualifier": true,
+		"class-name": true,
+		"interface-name": [true, "always-prefix"],
+		"object-literal-key-quotes": [true, "as-needed"],
+		"object-literal-shorthand": true,
+		"quotemark": [true, "single"],
+		"semicolon": [true, "always"],
+		"arrow-parens": [true, "ban-single-arg-parens"],
+		"prefer-const": [true, {"destructuring": "any"}],
+		"prefer-method-signature": true,
+		"indent": [true, "spaces"],
+		"use-isnan": true,
+		"switch-default": true,
+		"restrict-plus-operands": true,
+		"radix": true,
+		"no-var-keyword": true,
+		"no-use-before-declare": true,
+		"no-empty": true,
+		"no-duplicate-super": true,
+		"no-debugger": true,
+		"no-default-export": true,
+		"no-construct": true,
+		"no-conditional-assignment": true,
+		"no-string-throw": true,
+		"promise-function-async": true,
+		"prefer-for-of": true,
+		"adjacent-overload-signatures": true,
+		"typeof-compare": true,
+		"triple-equals": [true, "allow-null-check"]
+	},
+	"rulesDirectory": [
+		"tslint-no-unused-expression-chai"
+	]
+}
